@@ -1,0 +1,67 @@
+[
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\DungeonExplorer.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\DungeonExplorer.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\DungeonExplorer.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\DungeonExplorerCharacter.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\DungeonExplorerCharacter.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\DungeonExplorerGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\DungeonExplorerGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\DungeonExplorerProjectile.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\DungeonExplorerProjectile.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\TP_PickUpComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\TP_PickUpComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\TP_WeaponComponent.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\Source\\DungeonExplorer\\TP_WeaponComponent.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"Z:\\Game Dev\\DungeonFinder\\DungeonExplorer\\.vscode\\compileCommands_DungeonExplorer\\DungeonExplorer.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
